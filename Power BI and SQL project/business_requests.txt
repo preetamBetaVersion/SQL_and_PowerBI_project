@@ -1,0 +1,7 @@
+Business request: 
+1) To improve sales reports and want to move from static reports to visual dashboards.
+2) To focus on how much business has sold of what products, to which clients and how it has been over time.
+3) To filter sales person based on the products and customer base he caters to.
+4) To measure numbers against budget so we can compare our values against performance.
+
+Note : The budget is for 2021 and the business usually look 2 years back in time to do analysis of sales
